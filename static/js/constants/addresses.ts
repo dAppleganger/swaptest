@@ -3,8 +3,8 @@ import { SupportedChainId } from './chains'
 
 type AddressMap = { [chainId: number]: string }
 
-export const ScrappyInu_ADDRESS: AddressMap = {
-  [SupportedChainId.MAINNET]: '0x123c79c9fc5da0878dbe51a57d6754cb017343df',
+export const FireballInu_ADDRESS: AddressMap = {
+  [SupportedChainId.MAINNET]: '0xcdf020f8801b0f98de29796f7347bb6ca0a7035d',
   [SupportedChainId.TESTNET]: '0x0a3e884850c9320bc387123ac7e543229ec3d84d',
 }
 
