@@ -2,7 +2,7 @@
   "background_color": "#fff",
   "display": "standalone",
   "homepage_url": "https://app.uniswap.org",
-  "providedBy": { "name": "Fireball Inu", "url": "https://fireballinu.org" },
+  "providedBy": { "name": "Fireball Inu", "url": "www.fireballinu.online" },
   "icons": [
     {
       "src": "./images/192x192_App_Icon.png",
