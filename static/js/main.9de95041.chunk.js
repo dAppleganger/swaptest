@@ -3142,7 +3142,7 @@
             function za(e, t) {
                 return La(e, [t])[0]
             }
-            var Da, Wa, qa, Fa = n.p + "static/media/logo_white.81a56970.svg",
+            var Da, Wa, qa, Fa = n.p + "static/media/fireballinu.jpg",
                 Ya = n(652),
                 Va = n(653),
                 _a = n(654),
